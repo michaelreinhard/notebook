@@ -7,6 +7,8 @@
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
+This is soemthing I am adding to see if it makes any difference in the outpub of
+the notebook
 ![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
 
 ### Jupyter notebook, the language-agnostic evolution of IPython notebook
